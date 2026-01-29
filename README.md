@@ -1,4 +1,4 @@
-# algo_for_ml
+# Algorithms for Machine Learning and Inference
 Source code for the assignments in the course Algorithms for Machine Learning and Inference
 # uv Quick start
 
